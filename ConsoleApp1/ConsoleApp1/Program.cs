@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // Code was edited in Github 4
+            // Code was edited in Github 3
             //Code was added in VS
             // code added in VS-4
         }
